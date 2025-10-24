@@ -1,1 +1,2 @@
-#Corso di GIT mio
+# Corso di GIT
+## Sincronizzazione
