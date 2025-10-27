@@ -1,8 +1,7 @@
 # Ricetta Pennette alla carbonara
-
 Piatto estivo
-
-## Ingredienti
-* penne
-* guanciale
-* pepe nero
+## Ingredienti:
+* Penne
+* Uova
+* Guanciale
+* Pepe nero
