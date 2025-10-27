@@ -2,5 +2,5 @@
 ## Ingredienti:
 * Penne
 * Uova
-* Pancetta
+* Guanciale
 * Pepe nero
