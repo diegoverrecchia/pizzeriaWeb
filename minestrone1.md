@@ -6,3 +6,6 @@ Ottima da utlizzare in dieta
 * Cipolle
 * Patate
 * Carote
+* Zucchine
+* Peperoni
+* Fagioli
