@@ -7,3 +7,5 @@ File risotto1.md
 file: pennette1.md
 * Ricetta: Pennette alla carbonara
 
+file: minestron1.md
+* Ricetta: Minestrone di verdure
